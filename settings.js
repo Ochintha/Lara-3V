@@ -6,13 +6,13 @@ function convertToBool(text, fault = 'true') {
 }
 module.exports = {
 SESSION_ID: process.env.SESSION_ID || "adgkQJDJ#1fC0m6oIi6R304pT43Jj9PpLS5GCdb5HJMzGu2EOKJc", // Add your session id
-PREFIX: process.env.PREFIX || " ",
+PREFIX: process.env.PREFIX || 💀❗
 OWNER_NUMBER: process.env.OWNER_NUMBER || "94740848044",
 DEV: process.env.DEV || "94740848044",
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
 AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
 AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
-STATUS_REPLY_MSG: process.env.STATUS_REPLY_MSG || "*_`ᴀᴜᴛᴏ ꜱᴛᴀᴛᴜꜱ ᴊᴜꜱᴛ ɴᴏᴡ ꜱᴇᴇɴ ʙʏ ʟᴀʀᴀ ᴍᴅ`_* 💃🏻",
+STATUS_REPLY_MSG: process.env.STATUS_REPLY_MSG || "*_`ᴀᴜᴛᴏ ꜱᴛᴀᴛᴜꜱ ᴊᴜꜱᴛ ɴᴏᴡ ʟᴀʀᴀ ᴍᴅ`_* 💃🏻",
 MODE: process.env.MODE || "public",  //public | private | inbox | group
 AUTO_VOICE: process.env.AUTO_VOICE || "true",
 AUTO_STICKER: process.env.AUTO_STICKER || "false",
